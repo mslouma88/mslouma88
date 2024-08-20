@@ -101,9 +101,8 @@
 ## 📊 Statistiques de Contribution
 
 <!-- ![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=mslouma88&show_icons=true&theme=radical) -->
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mslouma88&show_icons=true&locale=en&layout=compact&theme=radical" alt="mslouma88"/>
-</p>
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mslouma88&show_icons=true&locale=en&layout=compact&theme=radical" alt="mslouma88"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mslouma88&show_icons=true&theme=radical" />
 
