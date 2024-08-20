@@ -15,7 +15,7 @@
 
 <p align="right">
 <h2>🌟 À propos de moi</h2>
-<img src="img/readmeimg.gif" align="right" alt="Bienvenue" >
+<img src="img/readmeimg.gif" align="right" alt="Bienvenue" width="400"height="400">
 
 - 🔭 Je suis étudiant en **Data**  passionné par les *données*, les *statistiques* et le *machine learning*.
 - 🌱 Mon objectif est de *transformer* les données brutes en informations précieuses pour prendre des décisions éclairées.
