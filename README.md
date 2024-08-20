@@ -25,6 +25,8 @@
 - 📫 Vous pouvez me *joindre* via mon email ou LinkedIn.
 - ⚡ J'aime relever des *défis* et *découvrir* de nouvelles technologies.
 
+- 💻 Je suis actif sur GitHub et je partage mes projets et mes expériences.
+
 ## 🔧 Compétences
 
 - **Langages de programmation** :
