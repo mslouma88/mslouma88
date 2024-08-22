@@ -111,7 +111,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mslouma88&theme=radical" alt="mslouma88" />
 
 
-<!--[![mslouma88's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mslouma88)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![mslouma88's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mslouma88)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <br/>
 
@@ -120,7 +120,7 @@
 - **Master en Data Analytics** à **Sorbonne paris 1**
   - Cours principaux : Python, Sql, NoSql, Cloud, Analyse des données,Visualisation de données, Machine Learning,Deep learning, Statistiques avancées,Data Streaming...
 
--->
+
 
 ## 📬 Contact
 
