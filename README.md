@@ -119,7 +119,6 @@
   - Cours principaux : Python, Sql, NoSql, Cloud, Analyse des données,Visualisation de données, Machine Learning,Deep learning, Statistiques avancées,Data Streaming...
 
 
-
 ## 📬 Contact
 
 <a href="mailto:salam.mejri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
