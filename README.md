@@ -17,15 +17,14 @@
 <h2>🌟 À propos de moi</h2>
 <img src="img/readmeimg.gif" align="right" alt="Bienvenue" width="400"height="400">
 
-- 🔭 Je suis étudiant en **Data**  passionné par les *données*, les *statistiques* et le *machine learning*.
-- 🌱 Mon objectif est de *transformer* les données brutes en informations précieuses pour prendre des décisions éclairées.
-- 🚀 Je suis toujours à la recherche de nouvelles *opportunités* pour apprendre et appliquer mes compétences dans des projets réels.
-- 🤝 Collaboration et partage de connaissances sont essentiels pour moi.
-- 💬 N'hésitez pas à me *contacter* pour discuter de projets ou de collaborations.
-- 📫 Vous pouvez me *joindre* via mon email ou LinkedIn.
-- ⚡ J'aime relever des *défis* et *découvrir* de nouvelles technologies.
-
-- 💻 Je suis actif sur GitHub et je partage mes projets et mes expériences.
+🎓 Data Engineer passionné par le cloud computing, le DevOps et la science des données.
+🎯 Transformer les données brutes en informations stratégiques et solutions innovantes.
+🚀 Toujours en quête de nouvelles opportunités pour apprendre, évoluer et appliquer mes connaissances.
+🤝 La collaboration et le partage des connaissances sont au cœur de ma philosophie professionnelle.
+💬 N'hésitez pas à me contacter pour échanger sur des projets ou des collaborations passionnantes.
+📫 Vous pouvez me joindre via mon email ou LinkedIn.
+⚡ Motivé par le challenge et la découverte de nouvelles technologies.
+💻 Actif sur GitHub, je partage régulièrement mes projets et mes expériences.
 
 ## 🔧 Compétences
 
