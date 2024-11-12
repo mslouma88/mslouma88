@@ -17,13 +17,21 @@
 <img src="img/readmeimg.gif" align="right" alt="Bienvenue" width="400"height="400">
 
 🎓 Data Engineer passionné par le cloud computing, le DevOps et la science des données.
+
 🎯 Transformer les données brutes en informations stratégiques et solutions innovantes.
+
 🚀 Toujours en quête de nouvelles opportunités pour apprendre, évoluer et appliquer mes connaissances.
+
 🤝 La collaboration et le partage des connaissances sont au cœur de ma philosophie professionnelle.
+
 💬 N'hésitez pas à me contacter pour échanger sur des projets ou des collaborations passionnantes.
+
 📫 Vous pouvez me joindre via mon email ou LinkedIn.
+
 ⚡ Motivé par le challenge et la découverte de nouvelles technologies.
+
 💻 Actif sur GitHub, je partage régulièrement mes projets et mes expériences.
+
 
 ## 🔧 Compétences
 
