@@ -151,8 +151,7 @@
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
   </div>
-</div>
--->
+</div> -->
 
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur des projets intéressants!
 
