@@ -83,7 +83,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks_for_visiting_my_GitHub_profile!-🌟-blueviolet" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mslouma88&show_icons=true&theme=radical" />
+
 
