@@ -69,7 +69,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mslouma88&show_icons=true&theme=radical" width="48%"  hight="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mslouma88&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mslouma88&layout=compact&theme=radical" width="48%"/>
 </p>
 
