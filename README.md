@@ -84,5 +84,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&width=500&lines=Thanks+for+visiting+my+GitHub+profile!+🌟" />
+  <img src="https://img.shields.io/badge/Thanks_for_visiting_my_GitHub_profile!-🌟-blueviolet" />
 </p>
+
